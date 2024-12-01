@@ -10,7 +10,7 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Running Page',
+  siteTitle: 'Sports Notes',
   siteUrl: 'https://sports.macondo.cc',
   logo: 'https://s2.loli.net/2024/11/30/WfSUYk2ERlOMt4o.png',
   description: 'My Sports Notes',
